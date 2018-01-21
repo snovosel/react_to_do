@@ -21,7 +21,3 @@ To run the local webpack server:
     npm run build
 
     npm run start
-
-
-
-Happy Coding :)
