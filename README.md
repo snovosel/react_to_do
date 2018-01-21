@@ -1,9 +1,8 @@
-React Starter App
+React To Do
 -------------------
 
-
-This is a starter template for React apps with a simple
-setup so that time is spent more on coding rather than on config.
+Simple To Do list application with basic functionality.
+Created to demonstrate CRUD operations using ReactJs.
 
 
 To set up locally on your machine:
